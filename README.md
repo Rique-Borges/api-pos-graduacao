@@ -4,6 +4,8 @@ Esta é uma API REST desenvolvida como parte de um projeto de pós-graduação, 
 
 A aplicação foi construída utilizando **Nest.js**, um framework Node.js progressivo para a construção de aplicações server-side eficientes e escaláveis. A persistência de dados é gerenciada pelo ORM **Prisma** com um banco de dados **SQLite**.
 
+##Diagrama
+
 ![Diagrama da Arquitetura](./diagram.png)
 
 
