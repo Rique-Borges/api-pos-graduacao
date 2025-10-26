@@ -47,7 +47,7 @@ api-pos-graduacao/
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
-*   [Node.js](https://nodejs.org/en/) (v16 ou superior)
+*   [Node.js](https://nodejs.org/en/)
 *   [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
 ## Instalação e Configuração
